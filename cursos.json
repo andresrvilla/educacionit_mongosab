@@ -1,0 +1,74 @@
+[
+  {
+    "title": "MongoDB Fundamentos",
+    "description": "MongoDB y sus pasos iniciales",
+    "by_user": "Universidad Tecnologica Nacional",
+    "url": "http://www.utn.gov.ar",
+    "tags": ["mongodb", "database", "NoSQL"],
+    "horas": 8,
+    "likes": 1470
+  },
+  {
+    "title": "MongoDB Avanzado",
+    "description": "MongoDB para administradores de bases de datos",
+    "by_user": "Universidad Tecnologica Nacional",
+    "url": "http://www.utn.gov.ar",
+    "tags": ["mongodb", "database", "NoSQL"],
+    "horas": 25,
+    "likes": 700
+  },
+  {
+    "title": "MongoDB Fundamentos",
+    "description": "MongoDB y sus pasos iniciales",
+    "by_user": "Universidad de Palermo",
+    "url": "http://www.upalermo.edu.ar",
+    "tags": ["mongodb", "database", "NoSQL"],
+    "horas": 7,
+    "likes": 980
+  },
+  {
+    "title": "MongoDB Avanzado",
+    "description": "MongoDB para administradores de bases de datos",
+    "by_user": "Universidad de Palermo",
+    "url": "http://www.upalermo.edu.ar",
+    "tags": ["mongodb", "database", "NoSQL"],
+    "horas": 21,
+    "likes": 512
+  },
+  {
+    "title": "NodeJS Fundamentos",
+    "description": "NodeJS y sus pasos iniciales",
+    "by_user": "Universidad Tecnologica Nacional",
+    "url": "http://www.utn.gov.ar",
+    "tags": ["Javascript", "Backend", "Programacion"],
+    "horas": 12,
+    "likes": 977
+  },
+  {
+    "title": "NodeJS Avanzado",
+    "description": "NodeJS para programadores backend",
+    "by_user": "Universidad Tecnologica Nacional",
+    "url": "http://www.utn.gov.ar",
+    "tags": ["Javascript", "Backend", "Programacion"],
+    "horas": 36,
+    "likes": 343
+  },
+  {
+    "title": "NodeJS Fundamentos",
+    "description": "NodeJS y sus pasos iniciales",
+    "by_user": "Universidad de Palermo",
+    "url": "http://www.upalermo.edu.ar",
+    "tags": ["Javascript", "Backend", "Programacion"],
+    "horas": 15,
+    "likes": 528
+  },
+  {
+    "title": "NodeJS Avanzado",
+    "description": "NodeJS para programadores backend",
+    "by_user": "Universidad de Palermo",
+    "url": "http://www.upalermo.edu.ar",
+    "tags": ["Javascript", "Backend", "Programacion"],
+    "horas": 42,
+    "likes": 172
+  }
+]
